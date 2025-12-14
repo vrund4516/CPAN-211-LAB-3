@@ -1,0 +1,35 @@
+Professor	Blaise	Pascal	Physics
+Professor	Isaac	Newton	Mathematics
+Professor	Leonardo	da	Vinci Art
+Professor	Marie	Skłodowska-Curie	Chemistry
+Professor	Galileo	Galilei	Astronomy
+Professor	Charles	Darwin	Biology
+Professor	Albert	Einstein	Physics
+Professor	Marie	Curie	Physics
+Professor	Galileo	Galilei	Astronomy
+Professor	Charles	Darwin	Biology
+Professor	Albert	Einstein	Theoretical Physics
+Professor	Stephen	Hawking	Theoretical Physics
+Professor	Erwin	Schrödinger	Physics
+Professor	Isaac	Newton	Mathematics
+Professor	Marie	Curie	Chemistry
+Professor	Charles	Darwin	Biology
+Professor	Albert	Einstein	Physics
+Professor	Marie	Curie	Physics
+Professor	Aristotle	Unknown	Philosophy
+Professor	Socrates	Unknown	Philosophy
+Professor	Euclid	Unknown	Mathematics
+Professor	Heraclitus	Unknown	Philosophy
+Professor	Johannes	Kepler	Astronomy
+Professor	René	Descartes	Philosophy
+Professor	Gottfried	Leibniz	Mathematics
+Professor	Friedrich	Nietzsche	Philosophy
+Professor	François	Voltaire	Literature
+Professor	Charles	Montesquieu	Political Science
+Professor	David	Hume	Philosophy
+Professor	Jeremy	Bentham	Philosophy
+Professor	David	Ricardo	Economics
+Professor	Friedrich	Engels	Economics
+Professor	Émile	Durkheim	Sociology
+Professor	Alfred	Adler	Psychology
+Professor	Ivan	Pavlov	Psychology
